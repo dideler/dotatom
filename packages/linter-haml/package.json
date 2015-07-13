@@ -1,0 +1,41 @@
+{
+  "name": "linter-haml",
+  "linter-package": true,
+  "activationCommands": {},
+  "main": "./lib/init",
+  "version": "0.4.0",
+  "description": "Atom linter plugin for HAML, using haml-lint",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AtomLinter/linter-haml"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.151.0"
+  },
+  "dependencies": {},
+  "readme": "linter-haml\n=========================\n\nThis linter plugin for [Linter](https://github.com/AtomLinter/Linter) provides an interface to [haml-lint](https://github.com/causes/haml-lint). It will be used with files that have the \"HAML\" syntax.\n\n## Installation\n\n### Dependencies\n\nThis plugin requires the Linter package to be installed. If Linter is not installed, please follow the instructions [here](https://github.com/AtomLinter/Linter).\n\nLinter-haml relies on the HAML-lint gem to perform linting. If you do not currently have HAML-lint installed, follow the instructions [here](https://github.com/causes/haml-lint).\n\nYou may also need to install the [language-haml](https://github.com/cannikin/language-haml) plugin.\n\n### Plugin installation\n```\n$ apm install linter-haml\n```\n\n## Settings\nYou can configure linter-haml by editing ~/.atom/config.cson (choose Open Your Config in Atom menu):\n```\n'linter-haml-lint':\n  'hamlLintExecutablePath': null #haml-lint path. run 'which haml-lint' to find the path\n```\n\n## Contributing\nIf you would like to contribute enhancements or fixes, please do the following:\n\n1. Fork the plugin repository.\n1. Hack on a separate topic branch created from the latest `master`.\n1. Commit and push the topic branch.\n1. Make a pull request.\n1. welcome to the club\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/AtomLinter/linter-haml/issues"
+  },
+  "homepage": "https://github.com/AtomLinter/linter-haml",
+  "_id": "linter-haml@0.4.0",
+  "_shasum": "c51967124a117c00fad3996588d65558c0dffb3a",
+  "_resolved": "file:../d-11563-11631-p8ju2p/package.tgz",
+  "_from": "../d-11563-11631-p8ju2p/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".coffee": [
+        "lib/init.coffee",
+        "lib/linter-haml.coffee"
+      ],
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,19 @@
+"*":
+  "exception-reporting":
+    userId: "70fa25d2-cb51-8d35-62b5-0e9fdd7a8a71"
+  welcome:
+    showOnStartup: false
+  editor:
+    fontSize: 17
+    invisibles: {}
+    preferredLineLength: 110
+  core:
+    disabledPackages: [
+      "vim-mode"
+      "vim-surround"
+    ]
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+    useSmartcaseForSearch: true
+  "vim-surround": {}
+  "ruby-test": {}
