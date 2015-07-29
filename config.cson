@@ -1,19 +1,18 @@
 "*":
   "exception-reporting":
-    userId: "70fa25d2-cb51-8d35-62b5-0e9fdd7a8a71"
+    userId: "f30d1b33-e4c8-056b-d4eb-c07777b522b9"
   welcome:
     showOnStartup: false
-  editor:
-    fontSize: 17
-    invisibles: {}
-    preferredLineLength: 110
   core:
     disabledPackages: [
-      "vim-mode"
+      "linter-rubocop"
       "vim-surround"
+      "vim-mode"
     ]
-  "vim-mode":
-    useClipboardAsDefaultRegister: true
-    useSmartcaseForSearch: true
-  "vim-surround": {}
+  editor:
+    invisibles: {}
+    fontSize: 19
+    preferredLineLength: 110
+  linter: {}
+  "tree-view": {}
   "ruby-test": {}
