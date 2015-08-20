@@ -7,8 +7,8 @@
     disabledPackages: []
   editor:
     invisibles: {}
-    fontSize: 19
     preferredLineLength: 110
+    fontSize: 16
   linter: {}
   "tree-view": {}
   "ruby-test": {}
