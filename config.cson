@@ -4,11 +4,7 @@
   welcome:
     showOnStartup: false
   core:
-    disabledPackages: [
-      "linter-rubocop"
-      "vim-surround"
-      "vim-mode"
-    ]
+    disabledPackages: []
   editor:
     invisibles: {}
     fontSize: 19
