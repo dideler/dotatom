@@ -1,0 +1,10 @@
+indent-guide-improved@1.4.2
+language-gherkin@1.0.2
+language-haml@0.21.0
+language-viml@0.2.0
+linter@1.4.3
+linter-ruby@1.0.2
+ruby-test@0.9.11
+sort-lines@0.11.0
+toggle-quotes@0.11.3
+
