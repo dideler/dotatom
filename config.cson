@@ -3,7 +3,11 @@
     userId: "f30d1b33-e4c8-056b-d4eb-c07777b522b9"
   welcome:
     showOnStartup: false
-  core: {}
+  core:
+    disabledPackages: [
+      "linter-ruby"
+      "linter"
+    ]
   editor:
     invisibles: {}
     preferredLineLength: 110
