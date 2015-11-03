@@ -4,7 +4,7 @@ language-fish-shell@1.0.2
 language-gherkin@1.0.3
 language-haml@0.23.4
 language-viml@0.2.0
-linter@1.9.1
+linter@1.10.0
 linter-ruby@1.2.0
 ruby-test@0.9.16
 sort-lines@0.12.0
