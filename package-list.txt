@@ -1,12 +1,12 @@
-indent-guide-improved@1.4.3
+indent-guide-improved@1.4.4
 language-docker@1.1.3
 language-fish-shell@1.0.2
 language-gherkin@1.0.3
-language-haml@0.23.5
+language-haml@0.23.7
 language-viml@0.2.0
-linter@1.10.0
+linter@1.11.2
 linter-ruby@1.2.0
 ruby-test@0.9.16
 sort-lines@0.12.0
-toggle-quotes@0.11.3
+toggle-quotes@1.0.0
 
