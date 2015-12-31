@@ -18,3 +18,4 @@
     rspecFileCommand: "bundle exec rspec --tty {relative_path}"
     rspecAllCommand: "bundle exec rspec --tty spec"
     rspecSingleCommand: "bundle exec rspec --tty {relative_path}:{line_number}"
+  "atom-fuzzy-grep": {}
