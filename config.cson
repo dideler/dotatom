@@ -14,4 +14,7 @@
     fontSize: 16
   linter: {}
   "tree-view": {}
-  "ruby-test": {}
+  "ruby-test":
+    rspecFileCommand: "bundle exec rspec --tty {relative_path}"
+    rspecAllCommand: "bundle exec rspec --tty spec"
+    rspecSingleCommand: "bundle exec rspec --tty {relative_path}:{line_number}"
