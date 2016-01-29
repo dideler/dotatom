@@ -3,7 +3,7 @@ indent-guide-improved@1.4.5
 language-docker@1.1.6
 language-fish-shell@1.0.2
 language-gherkin@1.0.3
-language-haml@0.23.14
+language-haml@0.23.15
 language-viml@0.3.0
 linter@1.11.3
 linter-ruby@1.2.1
