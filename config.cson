@@ -1,21 +1,22 @@
 "*":
-  "exception-reporting":
-    userId: "f30d1b33-e4c8-056b-d4eb-c07777b522b9"
-  welcome:
-    showOnStartup: false
+  "atom-fuzzy-grep": {}
   core:
     disabledPackages: [
       "linter"
       "linter-ruby"
     ]
   editor:
+    fontSize: 16
     invisibles: {}
     preferredLineLength: 110
-    fontSize: 16
   linter: {}
-  "tree-view": {}
   "ruby-test":
-    rspecFileCommand: "bundle exec rspec --tty {relative_path}"
+    cucumberAllCommand: "bundle exec cucumber --color features"
+    cucumberFileCommand: "bundle exec cucumber --color {relative_path}"
+    cucumberSingleCommand: "bundle exec cucumber --color {relative_path}:{line_number}"
     rspecAllCommand: "bundle exec rspec --tty spec"
+    rspecFileCommand: "bundle exec rspec --tty {relative_path}"
     rspecSingleCommand: "bundle exec rspec --tty {relative_path}:{line_number}"
-  "atom-fuzzy-grep": {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
