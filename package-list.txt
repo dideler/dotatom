@@ -8,6 +8,6 @@ language-viml@0.3.0
 linter@1.11.3
 linter-ruby@1.2.1
 ruby-test@0.9.17
-sort-lines@0.13.0
+sort-lines@0.14.0
 toggle-quotes@1.0.0
 
