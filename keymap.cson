@@ -26,3 +26,4 @@
 
 'atom-workspace':
   'cmd-shift-a': 'fuzzy-grep:toggle'
+  'ctrl-cmd-p': 'settings-view:uninstall-packages'
