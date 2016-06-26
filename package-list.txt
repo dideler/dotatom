@@ -1,4 +1,5 @@
 atom-fuzzy-grep@0.13.0
+highlight-selected@0.11.2
 indent-guide-improved@1.4.9
 language-docker@1.1.6
 language-fish-shell@1.0.4

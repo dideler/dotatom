@@ -9,6 +9,7 @@
     fontSize: 16
     invisibles: {}
     preferredLineLength: 110
+  "highlight-selected": {}
   linter: {}
   "ruby-test":
     cucumberAllCommand: "bundle exec cucumber --color features"
