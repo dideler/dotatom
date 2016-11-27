@@ -4,7 +4,7 @@
 
 - You have [Atom](https://atom.io/) installed :rocket:
 - You have [apm](https://github.com/atom/apm) installed  
-  Run *Atom > Install Shell Commands* from the menu option
+  Run *Atom > Install Shell Commands* from the menu option (macOS only)
 
 ## Instructions
 
