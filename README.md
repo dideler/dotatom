@@ -12,7 +12,7 @@ Note: This will wipe out any existing Atom configurations that you have.
 
 ```bash
 mv ~/.atom ~/.atom_bak
-git clone git@github.com:FundingCircle/dotatom.git ~/.atom
+git clone git@github.com:dideler/dotatom.git ~/.atom
 ```
 
 Install the Atom packages by running:
