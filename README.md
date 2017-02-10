@@ -1,4 +1,4 @@
-# Funding Circle Atom configuration
+# Atom configuration
 
 ## Prerequisites
 
