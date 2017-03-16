@@ -2,6 +2,7 @@ atom-fuzzy-grep@0.15.0
 highlight-selected@0.12.0
 indent-guide-improved@1.4.12
 language-docker@1.1.7
+language-elixir@0.17.0
 language-fish-shell@1.0.5
 language-gherkin@1.0.4
 language-haml@0.24.1
