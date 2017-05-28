@@ -1,5 +1,5 @@
 atom-fuzzy-grep@0.16.0
-hey-pane@0.2.2
+hey-pane@1.0.0
 highlight-selected@0.13.1
 indent-guide-improved@1.4.12
 language-docker@1.1.7
