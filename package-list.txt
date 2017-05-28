@@ -1,4 +1,5 @@
 atom-fuzzy-grep@0.16.0
+file-icons@2.1.6
 hey-pane@1.0.0
 highlight-selected@0.13.1
 indent-guide-improved@1.4.12
