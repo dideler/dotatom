@@ -10,6 +10,7 @@ language-fish-shell@1.0.5
 language-gherkin@1.0.4
 language-graphql@0.9.0
 language-haml@0.24.6
+language-javascript-jsx@0.3.7
 language-viml@1.1.4
 linter@2.2.0
 linter-ruby@1.2.5
