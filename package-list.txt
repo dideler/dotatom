@@ -5,7 +5,7 @@ hey-pane@1.0.0
 highlight-selected@0.13.1
 indent-guide-improved@1.4.12
 language-docker@1.1.8
-language-elixir@0.18.0
+language-elixir@0.19.0
 language-fish-shell@1.0.5
 language-gherkin@1.0.4
 language-haml@0.24.5
