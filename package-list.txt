@@ -13,6 +13,7 @@ language-viml@1.1.3
 linter@2.1.2
 linter-ruby@1.2.5
 platformio-ide-terminal@2.5.1
+pretty-json@1.6.3
 ruby-test@1.0.2
 sort-lines@0.14.0
 toggle-quotes@1.0.1
