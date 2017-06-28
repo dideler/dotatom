@@ -11,7 +11,7 @@ language-gherkin@1.0.4
 language-graphql@0.9.0
 language-haml@0.24.6
 language-viml@1.1.4
-linter@2.1.2
+linter@2.2.0
 linter-ruby@1.2.5
 platformio-ide-terminal@2.5.1
 pretty-json@1.6.3
