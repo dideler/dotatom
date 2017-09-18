@@ -11,6 +11,13 @@
     fontSize: 16
     invisibles: {}
     preferredLineLength: 110
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+    prettierOptions:
+      singleQuote: true
+      trailingComma: "all"
+    useEslint: true
   "ruby-test":
     cucumberAllCommand: "bundle exec cucumber --color features"
     cucumberFileCommand: "bundle exec cucumber --color {relative_path}"
