@@ -22,6 +22,7 @@ linter-shellcheck@1.4.6
 linter-ui-default@1.6.10
 platformio-ide-terminal@2.6.0
 prettier-atom@0.39.0
+pretty-json@1.6.4
 ruby-test@1.0.2
 sort-lines@0.15.0
 toggle-quotes@1.0.1
