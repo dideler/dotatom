@@ -11,6 +11,22 @@
     fontSize: 16
     invisibles: {}
     preferredLineLength: 110
+  "platformio-ide-terminal":
+    ansiColors:
+      normal:
+        blue: "#2638cd"
+      zBright:
+        brightBlue: "#4e87ff"
+    core:
+      shell: "/usr/local/bin/fish"
+    iconColors:
+      blue: "#4542ff"
+    style:
+      animationSpeed: 0
+      fontSize: "14"
+      theme: "solarized-dark"
+    toggles:
+      autoClose: true
   "prettier-atom":
     formatOnSaveOptions:
       enabled: true
