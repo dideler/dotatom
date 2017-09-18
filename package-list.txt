@@ -6,6 +6,7 @@ hey-pane@1.0.0
 highlight-selected@0.13.1
 indent-guide-improved@1.4.13
 intentions@1.1.5
+language-babel@2.74.2
 language-docker@1.1.8
 language-elixir@0.20.2
 language-fish-shell@1.0.5
