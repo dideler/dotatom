@@ -1,8 +1,11 @@
 "*":
   core:
     disabledPackages: [
-      "linter"
       "linter-ruby"
+      "linter-elixir-credo"
+      "linter-elixirc"
+      "linter-ui-default"
+      "github"
     ]
   editor:
     fontSize: 16
