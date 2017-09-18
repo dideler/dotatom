@@ -41,5 +41,7 @@
     rspecAllCommand: "bundle exec rspec --tty spec"
     rspecFileCommand: "bundle exec rspec --tty {relative_path}"
     rspecSingleCommand: "bundle exec rspec --tty {relative_path}:{line_number}"
+    shell: "fish"
+    specFramework: "rspec"
   welcome:
     showOnStartup: false
