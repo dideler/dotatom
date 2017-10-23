@@ -34,7 +34,7 @@
       enabled: true
     prettierOptions:
       singleQuote: true
-      trailingComma: "all"
+      trailingComma: "es5"
     useEslint: true
   "ruby-test":
     cucumberAllCommand: "bundle exec cucumber --color features"
