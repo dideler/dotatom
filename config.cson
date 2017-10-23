@@ -19,6 +19,7 @@
       zBright:
         brightBlue: "#4e87ff"
     core:
+      scrollback: 5000
       shell: "/usr/local/bin/fish"
     iconColors:
       blue: "#4542ff"
